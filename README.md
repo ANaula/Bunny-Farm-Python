@@ -1,6 +1,6 @@
 # Bunny Farm Simulation
 
-##Purpose
+## Purpose
 
 This Python program was made to simulate a bunny farm over a long period of time. The simulation runs in real time and is organized into years and in each year information on each bunny is displayed as well as recorded in a text document. A grid is also displayed and recorded representing the pen the bunnies live in with each bunny being represented by a letter. The user is notified when a bunny is born, when one has passed away, when there is a culling, and when there is no where to move.  The simulation continues if there are living bunnies and ends when there are no more bunnies alive. 
 
